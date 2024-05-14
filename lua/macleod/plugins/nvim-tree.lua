@@ -32,6 +32,7 @@ return {
           window_picker = {
             enable = false,
           },
+          quit_on_open = true,
         },
       },
       filters = {
